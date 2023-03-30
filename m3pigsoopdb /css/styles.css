@@ -1,0 +1,19 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.collection {
+    display: flex;
+    gap: 0.5rem;
+}
+.pig-card {
+    border: 1px solid red;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
