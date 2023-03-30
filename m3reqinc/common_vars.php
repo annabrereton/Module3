@@ -1,0 +1,2 @@
+<?php
+$company = 'iO Academy';
